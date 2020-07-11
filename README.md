@@ -14,9 +14,11 @@ This dataset is comprised of <b>62,015</b> tweets from Twitter with labelled emo
 ### DL:
 1. The <b>[DLModel](DLModel.ipynb)</b> using [emotion_data.csv](cleaned_data/emotion_data.csv) gave me <b>64.80%</b> accuracy.
 
-#### Confusion Matrix:
+#### <u>Confusion Matrix:</u>
 
 ![](images/ConfusionMatrix.JPG)
+
+
 
 2. The <b>[DLModel-Prep](DLModel-Prep.ipynb)</b> using [emotion_data_prep.csv](cleaned_data/emotion_data_prep.csv) gave me <b>63.47%</b> accuracy.
 
@@ -25,18 +27,25 @@ This dataset is comprised of <b>62,015</b> tweets from Twitter with labelled emo
 ![](images/ConfusionMatrixPrep.JPG)
 
 
+
 ### ML:
 The <b>ML Algorithms</b> used for prediction are listed as follows:
 
 #### Building models using different classifiers (Count vectorizer): 
 Model 1: <b>Multinomial Naive Bayes Classifier</b> - Accuracy <b>58.46%</b>
+
 Model 2: <b>Linear SVM</b> - Accuracy <b>62.00%</b>
+
 Model 3: <b>Logistic Regression</b> - Accuracy <b>62.47%</b>
 
 #### Building models using different classifiers (TF-IDF vectorizer): 
 Model 1: <b>Multinomial Naive Bayes Classifier</b> - Accuracy <b>38.37%</b>
+
 Model 2: <b>Linear SVM</b> - Accuracy <b>38.49%</b>
+
 Model 3: <b>Logistic Regression</b> - Accuracy <b>40.13%</b>
+
+
 
 ### Predictions of DL Model:
 
