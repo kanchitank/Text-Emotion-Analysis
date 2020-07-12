@@ -16,8 +16,7 @@ This dataset is comprised of <b>62,015</b> tweets from Twitter with labelled emo
 
 #### Confusion Matrix:
 
-![](images/ConfusionMatrix.JPG)
-
+<img src = "https://github.com/kanchitank/Text-Emotion-Analysis/blob/master/images/ConfusionMatrix.JPG" width="700">
 
 
 
@@ -25,7 +24,7 @@ This dataset is comprised of <b>62,015</b> tweets from Twitter with labelled emo
 
 #### Confusion Matrix (Prep):
 
-![](images/ConfusionMatrixPrep.JPG)
+<img src = "https://github.com/kanchitank/Text-Emotion-Analysis/blob/master/images/ConfusionMatrixPrep.JPG" width="700">
 
 
 
